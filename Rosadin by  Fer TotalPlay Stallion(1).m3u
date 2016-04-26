@@ -3,12 +3,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 ,tvg-logo="http://www.hotel-casablanca.com.mx/base/img/varias/flag-mexico.png",[COLOR GREEN] LISTA DE FER TOTALPLAY STALLION  [/COLOR]
-http://127.0.0.1
-#EXTINF:-1 ,tvg-logo="http://www.hotel-casablanca.com.mx/base/img/varias/flag-mexico.png",[COLOR WHITE]ACTUALIZADA 09/04/2016 [/COLOR]
-http://127.0.0.1
-#EXTINF:-1 ,tvg-logo="http://www.hotel-casablanca.com.mx/base/img/varias/flag-mexico.png",[COLOR RED][/COLOR]
-http://127.0.0.1
+
 
 #EXTINF:-1,TRUTV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
