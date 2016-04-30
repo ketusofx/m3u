@@ -1,8 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,[COLOR orange]++ MEXICO LISTAS,ADDON,FREE,(ROSADINTV) ++[/COLOR]
-http://?
-#EXTINF:-1,[COLOR yellow]---ADMINISTRADORES --- EDUARDO CISNEROS --- LUIS ARMANDO ---[/COLOR]
-http://?
+
 #EXTINF:-1,[COLOR orange]---PELICULAS DE CANTINFLAS---[/COLOR]
 http://?
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg",A VOLAR JOVEN
