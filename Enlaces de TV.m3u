@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1,Discovery en Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Movie4
+http://iphone-streaming.ustream.tv/uhls/20257578/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,MovieLand
+http://iphone-streaming.ustream.tv/uhls/21424738/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Canal 13 - San Luis
+http://iphone-streaming.ustream.tv/uhls/21717464/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Choluvision 27 - Honduras
+http://iphone-streaming.ustream.tv/uhls/17590462/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Canal 7 - Guatemala
+http://iphone-streaming.ustream.tv/uhls/21227451/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ESPN Deportes
+http://iphone-streaming.ustream.tv/uhls/18814226/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bein Sports 3
+http://iphone-streaming.ustream.tv/uhls/22363382/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bein Sports 4
+http://iphone-streaming.ustream.tv/uhls/22349093/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bein Sports 8
+http://iphone-streaming.ustream.tv/uhls/22327574/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Univisión
+http://iphone-streaming.ustream.tv/uhls/22277462/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Telemundo HD
+http://iphone-streaming.ustream.tv/uhls/22247243/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Gama TV - Ecuador
+http://iphone-streaming.ustream.tv/uhls/22336657/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,abc Television - Ecuador
+http://iphone-streaming.ustream.tv/uhls/22305765/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Sol TV - Ecuador
+http://iphone-streaming.ustream.tv/uhls/8905548/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Cartoon Germany
+http://iphone-streaming.ustream.tv/uhls/19036542/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,KW TV - Mexico
+http://iphone-streaming.ustream.tv/uhls/11479929/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Celta TV - Argentina
+http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Rusia Today en Español
+http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Arte
+http://iphone-streaming.ustream.tv/uhls/21640064/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,KTV - Kenia
+http://iphone-streaming.ustream.tv/uhls/9521943/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NTV - Kenia
+http://iphone-streaming.ustream.tv/uhls/22001177/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Twit Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Movie Mix 1
+http://iphone-streaming.ustream.tv/uhls/16485295/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Movie Mix 2
+http://iphone-streaming.ustream.tv/uhls/17209812/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Afghanistan 1TV
+http://iphone-streaming.ustream.tv/uhls/11266193/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telerama - Italia
+http://iphone-streaming.ustream.tv/uhls/20845752/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TRIS Canale 172 - Italia
+http://iphone-streaming.ustream.tv/uhls/181151/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,Fox Sports
+rtmp://5.63.149.236/live playpath=sportskenji?id=86866&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/sportskenji/1/600/385 conn=S:OK --live
+#EXTINF:-1,Fox Sports 2
+rtmp://5.63.149.236/live playpath=fox2kk?id=86853&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/fox2kk/1/600/385 conn=S:OK --live
+#EXTINF:-1,Fox Sports 3
+rtmp://109.123.95.180/live playpath=fox3malosotv?id=80894&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/fox3malosotv/1/600/385 conn=S:OK --live
+#EXTINF:-1,ESPN
+rtmp://46.28.53.120/live playpath=espnmayimbu?id=86863&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/espnmayimbu/1/600/385 conn=S:OK --live
+#EXTINF:-1,ESPN 2
+rtmp://37.130.226.172/live playpath=espn2malosolandia?id=83483&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/espn2malosolandia/1/600/385 conn=S:OK --live
+#EXTINF:-1,Directv Sports
+rtmp://178.162.199.131/live playpath=directvkeyko?id=86865&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/directvkeyko/1/600/385 conn=S:OK --live
+#EXTINF:-1,Canal F1
+rtmp://146.185.16.58/live playpath=f1malosotv?id=80896&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/f1malosotv/1/600/385 conn=S:OK --live
+#EXTINF:-1,WWE Network
+rtmp://178.162.199.131/live playpath=wwemalosotv?id=80854&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/wwemalosotv/1/600/385 conn=S:OK --live
+#EXTINF:-1,Fox Channel
+rtmp://109.123.95.180/live playpath=foxveronika?id=86373&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/foxveronika/1/600/385 conn=S:OK --live
+#EXTINF:-1,FX
+rtmp://46.28.49.156/live playpath=fx2016?id=80900&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/fx2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Fox 1
+rtmp://146.185.16.56/live playpath=fox1mayimbu?id=86862&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/fox1mayimbu/1/600/385 conn=S:OK --live
+#EXTINF:-1,Warner Channel
+rtmp://5.63.149.236/live playpath=warner2016?id=80898&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/warner2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Nickelodeon
+rtmp://178.162.199.131/live playpath=nickelodeon2016?id=80904&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/nickelodeon2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Cartoon Network
+rtmp://46.28.50.124/live playpath=cartoon2016?id=80906&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/cartoon2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Disney Channel
+rtmp://37.130.226.172/live playpath=disney2016?id=80905&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/disney2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Disney XD
+rtmp://146.185.16.56/live playpath=xd2016?id=80902&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/xd2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Disney Junior
+rtmp://178.162.199.155/live playpath=juniormalosotv?id=86065&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/juniormalosotv/1/600/385 conn=S:OK --live
+#EXTINF:-1,Drangol Ball Z
+rtmp://198.255.17.34:1935/live?Te95mHs60zU1IEH5zKYkviXkk4vBNkwN playpath=live_mega_animes swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_animes?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961d 
+#EXTINF:-1,Los Simpson
+rtmp://198.255.17.26:1935/live?KKFH9ISgwV7TuIrNBgyT98LDU48y8ehn playpath=live_mega_simpson swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_simpson?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,Futurama
+rtmp://198.255.17.34:1935/live?CTZOXKaiAIWXLdWGrTIbEr9axpjHkwot playpath=live_megafuturama swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/megafuturama?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,El Chavo del 8
+rtmp://198.255.17.42:1935/live?bHaE1bsrcKv3doKxXf6R64mm7yX6SNDy playpath=live_mega_chavo swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_chavo?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,South Park
+rtmp://198.255.17.34:1935/live?kLl24ecJzdcz1rUYPV8uJUgdOy50ci3b playpath=live_mega_revolucionhd swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_revolucionhd?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,HBO
+rtmp://173.193.205.94/live playpath=hboppk?id=86949&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/hboppk/1/600/385 conn=S:OK --live
+#EXTINF:-1,TNT
+rtmp://37.130.226.172/live playpath=tntlatino2016?id=80890&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/tntlatino2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,Cinemax
+rtmp://46.28.53.120/live playpath=cinemax2016?id=80903&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/cinemax2016/1/600/385 conn=S:OK --live
+#EXTINF:-1,AMC
+rtmp://178.162.211.103/zenex playpath=amcppk?id=19898&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.zenexplayer.com/data/scripts/fplayer.swf live=1 pageUrl=http://www.zenexplayer.com/embedplayer/amcppk/1/600/385 conn=S:OK --live
+#EXTINF:-1,Golden
+rtmp://46.28.50.116/live playpath=goldenmalosolandia?id=86064&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/goldenmalosolandia/1/600/385 conn=S:OK --live
+#EXTINF:-1,Film Zone
+rtmp://46.28.53.120/live playpath=fox1mayimbu?id=86862&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/fox1mayimbu/1/600/385 conn=S:OK --live
+#EXTINF:-1,Telenovela
+rtmp://5.63.149.236/live playpath=tlnovelasmalosolandia?id=86067&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/tlnovelasmalosolandia/1/600/385 conn=S:OK --live
+#EXTINF:-1,Canal Uno - Ecuador
+rtmp://178.162.193.166/live playpath=alye1?id=22471&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamifyplayer.com/embedplayer/alye1/1/600/400 conn=S:OK --live
+#EXTINF:-1,NBC Universo
+rtmp://178.162.193.166/stream playpath=legion1?id=23125&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/legion1/1/650/450 conn=S:OK --live
+#EXTINF:-1,Telefé
+rtmp://198.255.17.34:1935/live?SF3GMLIXoN402BSnPVLqSFxbWHRMRjnr playpath=live_beto_5 swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/beto_5?viewers=true&width=660&height=400&watermark=falset&autoplay=true token=30dabc4871922a1314192e925ab7961d 
+#EXTINF:-1,Pat La Paz
+rtmp://www.server.tevemi.com:1935/8092 playpath=8092 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.television-envivo.com/red-pat-en-vivo.html
+#EXTINF:-1,Azteca 7
+rtmp://178.162.202.6/live playpath=zient3abr2016?id=246429&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/zient3abr2016/1/590/390 conn=S:OK --live
+#EXTINF:-1,América Televisión
+rtmp://46.23.67.42/live playpath=americatv7633?id=247180&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/americatv7633/1/620/400 conn=S:OK --live
+#EXTINF:-1,Canal N
+rtmp://178.162.199.76/stream playpath=fulltvhdinfo2000?id=21685&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/fulltvhdinfo2000/1/610/380 Conn=S:OK --live 
+#EXTINF:-1,Venevisión
+rtmp://146.185.16.58/live playpath=venevision2016?id=80897&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/venevision2016/1/600/385 Conn=S:OK --live
+#EXTINF:-1,Venezolana de Televisión
+rtmp://cast.streamingconnect.tv:1935/vtvweb3/ playpath=vtvweb3 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.television-envivo.com/vtv-en-vivo.html
+#EXTINF:-1,MTV
+rtmp://46.28.50.124/live playpath=mtvkeyko?id=86749&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/mtvkeyko/1/600/385 Conn=S:OK --live
+#EXTINF:-1,Discovery Channel
+rtmp://46.28.50.124/live playpath=dlatino2016?id=80893&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/dlatino2016/1/600/385 Conn=S:OK --live
+#EXTINF:-1,History
+rtmp://198.255.17.34:1935/live?0rKN2g2kkv3VWz9Sh4hBSIGJpuiab6jx playpath=live_mfv_05 swfUrl=http://vaughnlive.tv/4386460317/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mfv_05?viewers=true&width=660&height=400&watermark=falset&autoplay=true token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,Fox Action
+rtmp://146.185.16.56/live playpath=foxactionmalosolandia?id=84415&pk=2e10567b9dcc3738b6ee317bc8fe00cf4edce7763f2a7d95d0167dc717521170 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/foxactionmalosolandia/1/600/385 Conn=S:OK --live
+
+
+
