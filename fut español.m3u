@@ -1,0 +1,104 @@
+#EXTM3U
+
+#EXTINF:-1 ,,tvg-logo="http://estaticos.sport.es/resources/jpg/4/7/rivales-atletico-bayern-1460713760374.jpg",[COLOR RED] BAYER MUNICH - ATLETICO MADRID [/COLOR]
+http://127.0.0.1
+
+
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/antena3.png",Antena 3 HD 
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/antena3.png",Antena 3 SD 
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0,BEIN Ñ
+rtmp://watch5.streamlive.to:1935/edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjIyOTkyODh8ODIuMTU4LjE0NC4yNnw1NzI4ZGM4ODY4NzkwfDdjYWM3YmRiMWU0MzVlNTkzYTQ1MzEwMmU1NDk4NWE0YzJkMDllODU. app=edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjIyOTkyODh8ODIuMTU4LjE0NC4yNnw1NzI4ZGM4ODY4NzkwfDdjYWM3YmRiMWU0MzVlNTkzYTQ1MzEwMmU1NDk4NWE0YzJkMDllODU. playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=P0652d6237a89674704b122b99bea4d7 live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?channel=72400
+
+#EXTINF:-1, FOX SPORT SUR
+rtmp://www1.iguide.to/iguide playpath=6q4rmbyn9uqc7hd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=32999&autoplay=true
+
+#EXTINF:-1,ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE01.m3u8
+
+#EXTINF:-1,ESPN+
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE01.m3u8
+
+
+#EXTINF:-1,FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE01.m3u8
+
+#EXTINF:0,ESPN +
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0,ESPN + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+
+
+
+
+#EXTINF:0,ESPN +
+
+#EXTINF:0,ESPN 
+
+#EXTINF:0,ESPN opcion 2 
+
+#EXTINF:0,ESPN 2 
+
+#EXTINF:0,ESPN 2 ARGENTINA
+
+#EXTINF:0,ESPN 2 ARGENTINA
+
+#EXTINF:-1, espn 2 argentina
+
+#EXTINF:0, ESPN 2 
+
+
+#EXTINF:0,FOX SPORT 1 ARGENTINA
+
+#EXTINF:0,FOX SPORT 2  ARGENTINA
+
+#EXTINF:0,FOX SPORT 3 ARGENTINA
+
+
+#EXTINF:-1, FOX SPORTOFF
+
+#EXTINF:-1, CMD 
+rtmp://www1.iguide.to/iguide playpath=b9ce5i8zni91qp9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=32998&autoplay=true
+
+#EXTINF:-1, canal multi---deportes 1
+
+
+
+
+
+
+
+
+
+
+
+
