@@ -1,0 +1,82 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="Canal de las Estrellas.png",Canal de las Estrellas  
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1,300
+rtmp://198.255.17.58/live?p1fafYVcbqKkF9ImM5qqqCoETLvcfSF7/live_300
+
+#EXTINF:-1 tvg-id="Azteca 7 T-K" tvg-logo="azteca-7.png",Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 T-K" tvg-logo="azteca-7.png",Galatv
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 tvg-id="EL TRECE HD T-K" tvg-logo="el-trece.png",El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-id="PROYECTO 40 T-K" tvg-logo="proyecto-40.png" ,Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="Ingenio TV.png" ,Ingenio TV (Mexico)
+
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+
+
+#EXTINF:-1,terror_y_suspenso
+rtmp://198.255.17.34/live?RGT8f0l0BVtOT2FUM3zcLIQnASII10qG/live_terror_y_suspenso
+
+#EXTINF:-1,zonafilms
+rtmp://198.255.17.34/live?GZDrhPO8GFuOmG1acNdNLO7mqdWUSGkN/live_zonafilms
+
+#EXTINF:-1,lcrememaxstaff
+rtmp://198.255.17.58/live?1UUrFO5ajdVg3KzyDSo5DyRtNjx7Ti3f/live_lcreme_staff
+
+#EXTINF:-1,300gritosterror
+rtmp://198.255.17.34/live?4l7DSvluW6pTfxIwHolkeK9wHQxc02by/live_300gritos_terror
+
+#EXTINF:-1,broadmovies
+rtmp://198.255.17.34/live?p41oFSCLMKs1cioSVj4XEb2sD4a3NE6I/live_broadmovies
+
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/975867238/20kds8l.jpg" group-title="SD",[COLOR lime][B]PSN  DEPORTES[/B][/COLOR]
+
+#EXTINF:-1,megamovieshd
+rtmp://198.255.17.34/live?f86KvzZAutBBQYIWIzY8AXCDj2dD255n/live_megamovieshd
+
+#EXTINF:-1,morena_channels
+rtmp://198.255.17.58/live?889qRxyjaMh8fJpUERASAsSAM1AUKy27/live_morena_channels12
+
+#EXTINF:-1,club_terror
+rtmp://198.255.17.34/live?KhNIIdB72O6a2UVOcWS6enXz6BLDGjXh/live_club_terror
+
+#EXTINF:-1,megamovHD
+rtmp://198.255.17.26/live?YBEEQm1fhQlvFFUWnOVAck4NFJ219WVW/live_megamovieshd
+
+#EXTINF:-1,mfv_09
+rtmp://198.255.17.58/live?c5mjo3FgS67eIxaQ6vgEIv8fZu9R6NfS/live_mfv_09
+
+#EXTINF:-1,mega_extremo
+rtmp://198.255.17.34/live?JMgcg3aygdiSTVIku4bYkehXxfT09BkN/live_mega_extremo
+
+
+#EXTINF:-1,solozombie
+rtmp://198.255.17.58/live?MyopBX7SzbMNdxOxNvXzwuvzCkdXzvok/live_solozombie
+
+#EXTINF:-1,vitatotv
+
+rtmp://198.255.17.58/live?q6xOUcISjXCWYTPl7922318qzBLNkIZT/live_vitatotv
+
+#EXTINF:-1,live_lcrememax
+rtmp://198.255.17.58/live?6pEW6afeFnQcsgJJqgY987oHP5yhAsMy/live_lcrememax
+
+
+#EXTINF:-1,mega_movieshd
+rtmp://198.255.17.34/live?wR7UXX9gxuLbkq67I5pkyr75cTRLUXqJ/live_mega_movieshd
+
+#EXTINF:-1,psicosis196911
+rtmp://198.255.17.34/live?0Tm3dweBATFYLqHgAjzi0LJFqDvWxe3j/live_psicosis196911
+
+#EXTINF:-1,mfv_05
+rtmp://198.255.17.34/live?jg3z7agb1vLPQ8r3lSxZg5ZcSp02xylM/live_mfv_05
+

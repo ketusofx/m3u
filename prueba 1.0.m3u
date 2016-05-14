@@ -1,0 +1,866 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR red][B]""[COLOR red][B]-------SELECCION CANALES FOX-------[/B][/COLOR]
+
+#EXTINF:-1,FOX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX LIFE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX CLASSIC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX CINEMA HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX ACCION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX MOVIES HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX 1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red][B]""[COLOR red][B]-------SELECCION CANALES ENTRETENIMIENTO PREMIUM-------[/B][/COLOR]
+http://?
+#EXTINF:-1,TNT SERIES HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8?
+#EXTINF:-1,TNT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,TNT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CINE CANAL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DOLDEN EDGE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CINE MAX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,GOLDEN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FILM ZONE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DE PELICULA HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,AMC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,SPACE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,SONY HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,UNIVERSAL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,UNIVERSAL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,ID HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,SYFY HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,E HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,BBC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,AXN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,WARNER BRODERS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CANAL 2 LOS MOCHIS
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/22243668/streams/live/playlist.m3u8
+#EXTINF:-1,UNIMAS HD
+http://208.75.225.28:1935/live/unimas12/playlist.m3u8?CapoLiveBroadcast.ts
+#EXTINF:-1,UNIVISION HD
+http://208.75.225.28:1935/live/univision101/playlist.m3u8
+#EXTINF:-1, MEXICO TRAVEL
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red][B]""[COLOR red][B]-------SELECCION CANALES DEPORTES PREMIUM -------[/B][/COLOR]
+http://?
+#EXTINF:-1,ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,ESPN PLUS + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX SPORT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,FOX SPORT 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CANALES BEIN SPORT HD INGLES
+#EXTINF:-1,BEIN SPORT HD 2
+#EXTINF:-1,BEIN SPORT HD 2
+http://37.187.24.177:80/sofien/sofien/700.ch
+#EXTINF:-1,BEIN SPORT HD 3
+http://37.187.24.177:80/sofien/sofien/701.ch
+#EXTINF:-1,BEIN SPORT HD 4
+http://37.187.24.177:80/sofien/sofien/702.ch
+#EXTINF:-1,BEIN SPORT HD 6
+http://37.187.24.177:80/sofien/sofien/704.ch
+#EXTINF:-1,BEIN SPORT HD 7
+http://37.187.24.177:80/sofien/sofien/705.ch
+#EXTINF:-1,BEIN SPORT HD 8
+http://37.187.24.177:80/sofien/sofien/706.ch
+#EXTINF:-1,BEIN SPORT HD 9
+http://37.187.24.177:80/sofien/sofien/707.ch
+#EXTINF:-1,BEIN SPORT HD 10
+http://37.187.24.177:80/sofien/sofien/708.ch
+
+
+ 
+  
+#EXTINF:-1,españoles
+
+#EXTINF:-1,LA 1 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1257.ts
+#EXTINF:-1,ANTENA 3 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1264.ts
+#EXTINF:-1,CUATRO HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1268.ts
+#EXTINF:-1,TELECINCO HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1263.ts
+#EXTINF:-1,LA SEXTA HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1262.ts
+#EXTINF:-1,LA 1
+http://ftvnext.stmteam.org:8000/live/delia/delia/429.ts
+#EXTINF:-1,LA 2
+http://ftvnext.stmteam.org:8000/live/delia/delia/426.ts
+#EXTINF:-1,Antena 3
+http://ftvnext.stmteam.org:8000/live/delia/delia/467.ts
+#EXTINF:-1,Cuatro
+http://ftvnext.stmteam.org:8000/live/delia/delia/430.ts
+#EXTINF:-1,Telecinco
+http://ftvnext.stmteam.org:8000/live/delia/delia/431.ts
+#EXTINF:-1,La Sexta
+http://ftvnext.stmteam.org:8000/live/delia/delia/432.ts
+#EXTINF:-1,Antena Nova
+http://ftvnext.stmteam.org:8000/live/delia/delia/485.ts
+#EXTINF:-1,TV Galicia
+http://ftvnext.stmteam.org:8000/live/delia/delia/935.ts
+#EXTINF:-1,TNT
+http://ftvnext.stmteam.org:8000/live/delia/delia/435.ts
+#EXTINF:-1,Calle 13
+http://ftvnext.stmteam.org:8000/live/delia/delia/475.ts
+#EXTINF:-1,CLAN TVE ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/915.ts
+#EXTINF:-1,CANAL SUR A. ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/914.ts
+#EXTINF:-1,Canal ESTRELLAS
+http://ftvnext.stmteam.org:8000/live/delia/delia/1276.ts
+#EXTINF:-1,COSMO ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/916.ts
+#EXTINF:-1,Neox
+http://ftvnext.stmteam.org:8000/live/delia/delia/471.ts
+#EXTINF:-1,CANAL+ HD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1275.ts
+#EXTINF:-1,C+ XTRA HD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1266.ts
+#EXTINF:-1,C+ XTRA ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/913.ts
+#EXTINF:-1,C+ SERIESXTRA ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/912.ts
+#EXTINF:-1,C+ ESTRENOS HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1267.ts
+#EXTINF:-1,C+ ESTRENOS ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/911.ts
+#EXTINF:-1,C+ DCINE HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1259.ts
+#EXTINF:-1,C+ DCINE
+http://ftvnext.stmteam.org:8000/live/delia/delia/1075.ts
+#EXTINF:-1,C+ COMEDIA
+http://ftvnext.stmteam.org:8000/live/delia/delia/1074.ts
+#EXTINF:-1,C+ ACCION HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1258.ts
+#EXTINF:-1,C+ ACCION
+http://ftvnext.stmteam.org:8000/live/delia/delia/1072.ts
+#EXTINF:-1,C+ SERIES HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1261.ts
+#EXTINF:-1,Paramount ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/932.ts
+#EXTINF:-1,AXN WHITE HD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1265.ts
+#EXTINF:-1,AXN WHITE ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/488.ts
+#EXTINF:-1,AXN ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/482.ts
+#EXTINF:-1,FOX Life ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/483.ts
+#EXTINF:-1,FOX HD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1270.ts
+#EXTINF:-1,Fox ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/465.ts
+#EXTINF:-1,Hollywood ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/434.ts
+#EXTINF:-1,SYFY HD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1273.ts
+#EXTINF:-1,C+ Liga HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1253.ts
+#EXTINF:-1,C+ LIGA 2 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1254.ts
+#EXTINF:-1,C+ FUTBOL HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1255.ts
+#EXTINF:-1,C+ DEP 2 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1256.ts
+#EXTINF:-1,C+ Partidazo HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1269.ts
+#EXTINF:-1,beIN Sport Spain HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/983.ts
+#EXTINF:-1,C+ GOLF
+http://ftvnext.stmteam.org:8000/live/delia/delia/1076.ts
+#EXTINF:-1,Teledeporte
+http://ftvnext.stmteam.org:8000/live/delia/delia/440.ts
+#EXTINF:-1,R. MADRID TV ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/933.ts
+#EXTINF:-1,CAZA Y PESCA ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/930.ts
+#EXTINF:-1,24 HORAS ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/909.ts
+#EXTINF:-1,MTV Espagna
+http://ftvnext.stmteam.org:8000/live/delia/delia/1281.ts
+#EXTINF:-1,Divinity
+http://ftvnext.stmteam.org:8000/live/delia/delia/1279.ts
+#EXTINF:-1,Disney Junior ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/484.ts
+#EXTINF:-1,Canal Panda ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/469.ts
+#EXTINF:-1,Disney Channel ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/438.ts
+#EXTINF:-1,DISNEY XD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/918.ts
+#EXTINF:-1,YOMVI ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/934.ts
+#EXTINF:-1,Baby TV ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1278.ts
+#EXTINF:-1,BOING ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/1277.ts
+#EXTINF:-1,National Geographic Spain
+http://ftvnext.stmteam.org:8000/live/delia/delia/480.ts
+#EXTINF:-1,NAT GEO WILD ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/923.ts
+#EXTINF:-1,HISTORIA ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/921.ts
+#EXTINF:-1,Canal Cocina
+http://ftvnext.stmteam.org:8000/live/delia/delia/441.ts
+#EXTINF:-1,VIAJAR HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1274.ts
+#EXTINF:-1,VIAJAR ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/927.ts
+#EXTINF:-1,A e E ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/910.ts
+#EXTINF:-1,TCM ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/926.ts
+#EXTINF:-1,NON STOP PEOPLE ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/924.ts
+#EXTINF:-1,FDF ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/920.ts
+#EXTINF:-1,FASHION TV ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/919.ts
+
+#EXTINF:-1,DCINE ESPANOL ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/917.ts
+#EXTINF:-1,Comedy Central Spain
+http://ftvnext.stmteam.org:8000/live/delia/delia/442.ts
+#EXTINF:-1,Nova
+http://comunidadiptv.org/online/estable/canal/Nova.m3u8
+#EXTINF:-1,Mega
+http://comunidadiptv.org/online/estable/canal/Mega.m3u8
+#EXTINF:-1,A3 SERIES
+http://comunidadiptv.org/online/estable/canal/A3Series.m3u8
+#EXTINF:-1,NEOX
+http://comunidadiptv.org/online/estable/canal/Neox.m3u8
+#EXTINF:-1,LA SEXTA
+http://comunidadiptv.org/online/estable/canal/LaSextaHD.m3u8
+#EXTINF:-1,ANTENA 3
+http://comunidadiptv.org/online/estable/canal/A3HD.m3u8
+#EXTINF:-1,TELECINCO
+http://comunidadiptv.org/online/estable/canal/Telecinco.m3u8
+#EXTINF:-1,LA CUATRO
+http://comunidadiptv.org/online/estable/canal/Cuatro.m3u8
+#EXTINF:-1,LA 2
+http://comunidadiptv.org/online/estable/canal/TVE2.m3u8
+#EXTINF:-1,LA 1
+http://comunidadiptv.org/online/estable/canal/TVE1.m3u8
+#EXTINF:-1,13TV
+http://comunidadiptv.org/online/estable/canal/13TV.m3u8
+#EXTINF:-1,EITB
+http://comunidadiptv.org/online/estable/canal/EITBEus.m3u8
+#EXTINF:-1,IB3 Televisio
+http://comunidadiptv.org/online/estable/canal/IB3.m3u8
+#EXTINF:-1,Cadiz
+http://comunidadiptv.org/online/estable/canal/OlCadiz.m3u8
+#EXTINF:-1,Costa
+http://comunidadiptv.org/online/estable/canal/OlCosta.m3u8
+#EXTINF:-1,Marbella
+http://comunidadiptv.org/online/estable/canal/OlMarbella.m3u8
+#EXTINF:-1,Isla
+http://comunidadiptv.org/online/estable/canal/OlIsla.m3u8
+#EXTINF:-1,Sevilla
+http://comunidadiptv.org/online/estable/canal/OlSevilla.m3u8
+#EXTINF:-1,Sierra
+http://comunidadiptv.org/online/estable/canal/OlSierra.m3u8
+#EXTINF:-1,Malaga
+http://comunidadiptv.org/online/estable/canal/OlMalaga.m3u8
+#EXTINF:-1,Ronda
+http://comunidadiptv.org/online/estable/canal/OlRonda.m3u8
+#EXTINF:-1,Girona TV
+http://comunidadiptv.org/online/estable/?sintonizador=GironaTV
+#EXTINF:-1,Aragon TV
+http://comunidadiptv.org/online/estable/?sintonizador=AragonTV
+#EXTINF:-1,Mirame TV
+http://comunidadiptv.org/online/estable/canal/MirameTV.m3u8
+#EXTINF:-1,Mijas 340 TV
+http://comunidadiptv.org/online/estable/?sintonizador=Mijas340TV
+#EXTINF:-1,Canal 7 Murcia
+http://comunidadiptv.org/online/estable/canal/La7RMurcia.m3u8
+#EXTINF:-1,Huelva TV
+http://comunidadiptv.org/online/estable/canal/HuelvaTV.m3u8
+#EXTINF:-1,Onda Azul
+http://comunidadiptv.org/online/estable/canal/OndaAzul.m3u8
+#EXTINF:-1,Ceuta TV
+http://comunidadiptv.org/online/estable/canal/CeutaTV.m3u8
+#EXTINF:-1,TV Melilla
+http://comunidadiptv.org/online/estable/canal/TVMelilla.m3u8
+#EXTINF:-1,Castilla-La Mancha
+http://comunidadiptv.org/online/estable/canal/CLM.m3u8?
+#EXTINF:-1,Informacion TV
+http://comunidadiptv.org/online/estable/canal/InformacionTV.m3u8
+#EXTINF:-1,24 Horas
+http://comunidadiptv.org/online/estable/canal/TVE24HHD.m3u8
+#EXTINF:-1,Teledeporte
+http://comunidadiptv.org/online/estable/canal/TeledeporteHD.m3u8
+#EXTINF:-1,Intereconomia Television
+http://comunidadiptv.org/online/estable/canal/IntereconomiaTV.m3u8
+#EXTINF:-1,Divinity
+http://comunidadiptv.org/online/estable/canal/Divinity.m3u8
+#EXTINF:-1,Energy
+http://comunidadiptv.org/online/estable/canal/Energy.m3u8
+#EXTINF:-1,Realmadrid TV
+http://comunidadiptv.org/online/estable/canal/RealMadridTVHD.m3u8
+#EXTINF:-1,La Regional CLM
+http://comunidadiptv.org/online/estable/canal/LaRegionalCLM.m3u8
+#EXTINF:-1,Ribera TV
+http://comunidadiptv.org/online/estable/canal/RiberaTV.m3u8
+#EXTINF:-1,TV Galicia
+http://comunidadiptv.org/online/estable/canal/TVGalicia.m3u8
+#EXTINF:-1,TV Galicia America
+http://comunidadiptv.org/online/estable/canal/TVGaliciaAmerica.m3u8
+#EXTINF:-1,Canal Extremadura
+http://comunidadiptv.org/online/estable/canal/ExtremaduraTV.m3u8
+#EXTINF:-1,Levante TV
+http://comunidadiptv.org/online/estable/canal/LevanteTV.m3u8
+#EXTINF:-1,El Dia TV
+http://comunidadiptv.org/online/estable/canal/ElDiaTV.m3u8
+#EXTINF:-1,RTV Andorra
+http://comunidadiptv.org/online/estable/canal/Andorra10TV.m3u8
+#EXTINF:-1,TeleSUR
+http://comunidadiptv.org/online/estable/canal/VenezuelaTelesur.m3u8?
+#EXTINF:-1,Telefuturo Canal 23
+http://comunidadiptv.org/online/estable/canal/TFCanal23.m3u8
+#EXTINF:-1,Guatevision TV
+http://comunidadiptv.org/online/estable/canal/GuatevisionTV.m3u8
+#EXTINF:-1,El Correo TV
+http://comunidadiptv.org/online/estable/canal/ElCorreoTV.m3u8
+#EXTINF:-1,BYU TV
+http://comunidadiptv.org/online/estable/canal/BYUTV.m3u8
+#EXTINF:-1,RTPAsturias
+http://comunidadiptv.org/online/estable/canal/RTPAsturias.m3u8
+#EXTINF:-1,Canal Costa
+http://comunidadiptv.org/online/estable/canal/CanalCostaHuelva.m3u8
+#EXTINF:-1,Canal Parlamento
+http://comunidadiptv.org/online/estable/canal/CanalParlamento.m3u8
+#EXTINF:-1,Tateti
+http://comunidadiptv.org/online/estable/canal/TaTeTi.m3u8
+#EXTINF:-1,TV8
+http://comunidadiptv.org/online/estable/canal/TV8.m3u8
+#EXTINF:-1,Barcelona TV
+http://comunidadiptv.org/online/estable/canal/BTV.m3u8?
+#EXTINF:-1,Canal Sur
+http://comunidadiptv.org/online/estable/canal/CanalSurAndalucia.m3u8
+#EXTINF:-1,ATV Cadiz
+http://comunidadiptv.org/online/estable/canal/ATVCadiz.m3u8
+#EXTINF:-1,Paramount Channel
+http://comunidadiptv.org/online/estable/canal/ParamountChannel.m3u8
+#EXTINF:-1,TeleB
+http://comunidadiptv.org/online/estable/canal/TeleB.m3u8
+#EXTINF:-1,Huesca TV
+http://comunidadiptv.org/online/estable/?sintonizador=HuescaTV
+#EXTINF:-1,Popular TV
+http://comunidadiptv.org/online/estable/canal/PopularTVCantabria.m3u8
+#EXTINF:-1,Marbella TV
+http://comunidadiptv.org/online/estable/canal/MarbellaTV.m3u8
+#EXTINF:-1,M1 Maresme
+http://comunidadiptv.org/online/estable/canal/M1Maresme.m3u8
+#EXTINF:-1,TeleBilbao
+http://comunidadiptv.org/online/estable/canal/TeleBilbao.m3u8
+#EXTINF:-1,TeleDonosti
+http://comunidadiptv.org/online/estable/?sintonizador=TeleDonosti
+#EXTINF:-1,RTVCE
+http://comunidadiptv.org/online/estable/canal/RTVCeuta.m3u8
+#EXTINF:-1,TerrassaValles
+http://comunidadiptv.org/online/estable/canal/TerrassaValles.m3u8
+#EXTINF:-1,Lancetot TV
+http://comunidadiptv.org/online/estable/?sintonizador=LancetotTV
+#EXTINF:-1,Onda Jaen
+http://comunidadiptv.org/online/estable/canal/OndaJaen.m3u8
+#EXTINF:-1,Sevilla FC
+http://comunidadiptv.org/online/estable/canal/SevillaFC.m3u8
+#EXTINF:-1,Castilla y Leon TV
+http://comunidadiptv.org/online/estable/canal/CYL.m3u8
+#EXTINF:-1,RTVida
+http://comunidadiptv.org/online/estable/canal/RTVida.m3u8
+#EXTINF:-1,Disney Channel
+http://comunidadiptv.org/online/estable/?sintonizador=DisneyChannel
+#EXTINF:-1,Libertad Digital (Viral TV)
+http://comunidadiptv.org/online/estable/canal/LibertadDigital.m3u8
+#EXTINF:-1,OndaCadiz
+http://comunidadiptv.org/online/estable/canal/OndaCadiz.m3u8
+#EXTINF:-1,Navarra TV
+http://comunidadiptv.org/online/estable/?sintonizador=NavarraTV
+#EXTINF:-1,TVA
+http://comunidadiptv.org/online/estable/?sintonizador=TVA
+#EXTINF:-1,TV4
+http://comunidadiptv.org/online/estable/?sintonizador=TV4
+#EXTINF:-1,IMas TV
+http://comunidadiptv.org/online/estable/?sintonizador=IMasTV
+#EXTINF:-1,LebrijaTV
+http://comunidadiptv.org/online/estable/?sintonizador=LebrijaTV
+#EXTINF:-1,PeritaTV
+http://comunidadiptv.org/online/estable/?sintonizador=PeritaTV
+#EXTINF:-1,Mola TV
+http://comunidadiptv.org/online/estable/?sintonizador=MolaTV
+#EXTINF:-1,VallesOrientalTV
+http://comunidadiptv.org/online/estable/?sintonizador=VallesOrientalTV
+#EXTINF:-1,InterComarcal
+http://comunidadiptv.org/online/estable/?sintonizador=InterComarcal
+#EXTINF:-1,101 TV
+http://comunidadiptv.org/online/estable/?sintonizador=TV101
+#EXTINF:-1,Canal 25
+http://comunidadiptv.org/online/estable/?sintonizador=C25
+#EXTINF:-1,TV Elche
+http://comunidadiptv.org/online/estable/?sintonizador=TeleElx
+#EXTINF:-1,25 TV
+http://comunidadiptv.org/online/estable/?sintonizador=TV25
+#EXTINF:-1,TCS
+http://comunidadiptv.org/online/estable/?sintonizador=TVCS
+#EXTINF:-1,ZTV
+http://comunidadiptv.org/online/estable/?sintonizador=ZTV
+#EXTINF:-1,Canal Diocesano
+http://comunidadiptv.org/online/estable/?sintonizador=Diocesano
+#EXTINF:-1,Hit TV
+http://comunidadiptv.org/online/estable/?sintonizador=HitTV
+#EXTINF:-1,Willax
+http://comunidadiptv.org/online/estable/?sintonizador=WillaxTV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,deportes
+
+#EXTINF:-1,MOVISTAR F1 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1272.ts
+#EXTINF:-1,M. MOTOGP ES
+http://ftvnext.stmteam.org:8000/live/delia/delia/922.ts
+#EXTINF:-1,M. MOTOGP HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts
+#EXTINF:-1,Canal + Liga
+http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts
+#EXTINF:-1,Canal + Futbol
+http://ftvnext.stmteam.org:8000/live/delia/delia/477.ts
+#EXTINF:-1,Canal + Desportes
+http://ftvnext.stmteam.org:8000/live/delia/delia/476.ts
+#EXTINF:-1,Canal + Desporte 2
+http://ftvnext.stmteam.org:8000/live/delia/delia/473.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,varios de mexico
+
+
+#EXTINF:-1,Azteca 7
+http://comunidadiptv.org/online/estable/canal/Azteca7.m3u8
+#EXTINF:-1,Azteca 13
+http://comunidadiptv.org/online/estable/canal/Azteca13.m3u8
+#EXTINF:-1,Azteca Noticias
+http://comunidadiptv.org/online/estable/canal/AztecaNoticias.m3u8
+#EXTINF:-1,TVN
+http://comunidadiptv.org/online/estable/?sintonizador=TVNChile
+#EXTINF:-1,LatinaTV
+ttp://comunidadiptv.org/online/estable/?sintonizador=LatinaTV
+#EXTINF:-1,TVP Argentina
+http://comunidadiptv.org/online/estable/?sintonizador=TVPublica
+#EXTINF:-1,Telemetro
+http://comunidadiptv.org/online/estable/?sintonizador=Telemetro
+#EXTINF:-1,RT Español
+http://comunidadiptv.org/online/estable/canal/RTSpanish.m3u8
+#EXTINF:-1,Proyecto 40
+http://comunidadiptv.org/online/estable/canal/ProyectoCuarenta.m3u8
+#EXTINF:-1,TV Chile
+http://comunidadiptv.org/online/estable/?sintonizador=TVChile
+#EXTINF:-1,Orbe21
+http://comunidadiptv.org/online/estable/?sintonizador=Orbe21
+#EXTINF:-1,ATV
+http://comunidadiptv.org/online/estable/?sintonizador=ATVPeru
+#EXTINF:-1,ATV+ Noticias
+http://comunidadiptv.org/online/estable/?sintonizador=ATVMas
+#EXTINF:-1,TN Noticias
+http://comunidadiptv.org/online/estable/?sintonizador=TNNoticias
+#EXTINF:-1,Viajar
+http://comunidadiptv.org/online/estable/?sintonizador=Viajar
+#EXTINF:-1,Vevo EU
+http://comunidadiptv.org/online/estable/?sintonizador=VevoEU
+#EXTINF:-1,Vevo Flow
+http://comunidadiptv.org/online/estable/?sintonizador=VevoFlow
+#EXTINF:-1,Vevo Hits
+http://comunidadiptv.org/online/estable/?sintonizador=VevoHits
+#EXTINF:-1,Vevo Country
+http://comunidadiptv.org/online/estable/?sintonizador=VevoCountry
+#EXTINF:-1,C5N
+http://comunidadiptv.org/online/estable/?sintonizador=C5N
+#EXTINF:-1,Foro TV
+http://comunidadiptv.org/online/estable/canal/ForoTV.m3u8
+#EXTINF:-1,CanalI
+http://comunidadiptv.org/online/estable/?sintonizador=CanalI
+#EXTINF:-1,Virgin TV
+http://comunidadiptv.org/online/estable/?sintonizador=VirginTV
+#EXTINF:-1,Canal De Las Estrellas
+http://comunidadiptv.org/online/estable/canal/CanalDeLasEstrellas.m3u8
+#EXTINF:-1,360 TV
+http://comunidadiptv.org/online/estable/?sintonizador=TV360
+#EXTINF:-1,Canal 9 Argentina
+http://comunidadiptv.org/online/estable/?sintonizador=Canal9Ar
+#EXTINF:-1,La Red
+http://comunidadiptv.org/online/estable/?sintonizador=LaRedTV
+#EXTINF:-1,Efekto TV
+http://comunidadiptv.org/online/estable/canal/EfektoTV.m3u8
+#EXTINF:-1,Miami TV
+http://comunidadiptv.org/online/estable/?sintonizador=MiamiTV
+#EXTINF:-1,Miami TV Life
+http://comunidadiptv.org/online/estable/?sintonizador=MiamiTVLife
+#EXTINF:-1,RTS Ecuador
+http://comunidadiptv.org/online/estable/?sintonizador=RTSEcuador
+#EXTINF:-1,TeleCaribe
+http://comunidadiptv.org/online/estable/?sintonizador=TeleCaribe
+#EXTINF:-1,El Trece
+http://comunidadiptv.org/online/estable/?sintonizador=ElTrece
+#EXTINF:-1,Culiacan
+http://comunidadiptv.org/online/estable/?sintonizador=Culiacan
+#EXTINF:-1,Mochis
+http://comunidadiptv.org/online/estable/?sintonizador=LosMochis
+#EXTINF:-1,YaquiTV
+http://comunidadiptv.org/online/estable/?sintonizador=YaquiTV
+#EXTINF:-1,Mazatlan
+http://comunidadiptv.org/online/estable/?sintonizador=Mazatlan
+#EXTINF:-1,1HD Music TV
+http://comunidadiptv.org/online/estable/?sintonizador=R1HD
+#EXTINF:-1,8TV
+http://comunidadiptv.org/online/estable/?sintonizador=OchoTV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,varios america latina
+
+
+#EXTINF:-1,Cuba vision
+http://comunidadiptv.org/online/estable/?sintonizador=Cubavision
+#EXTINF:-1,A24
+http://comunidadiptv.org/online/estable/?sintonizador=A24
+#EXTINF:-1,TYC Sports
+http://comunidadiptv.org/online/estable/?sintonizador=TYCSports
+#EXTINF:-1,DXTV
+http://comunidadiptv.org/online/estable/?sintonizador=DXTV
+#EXTINF:-1,TVMÁS
+http://comunidadiptv.org/online/estable/?sintonizador=TVMas
+#EXTINF:-1,Canal 26
+http://comunidadiptv.org/online/estable/?sintonizador=Canal26
+#EXTINF:-1,TVES
+http://comunidadiptv.org/online/estable/?sintonizador=TVES
+#EXTINF:-1,Chapin TV C3
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC3
+#EXTINF:-1,Chapin TV C7
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC7
+#EXTINF:-1,Chapin TV C23
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC23
+#EXTINF:-1,SNT
+http://comunidadiptv.org/online/estable/?sintonizador=SNT
+#EXTINF:-1,Una Voz Con Todos
+http://comunidadiptv.org/online/estable/?sintonizador=UnaVozConTodos
+#EXTINF:-1,Canal 12
+http://comunidadiptv.org/online/estable/?sintonizador=Canal12
+#EXTINF:-1,Condavision
+http://comunidadiptv.org/online/estable/?sintonizador=Condavision
+#EXTINF:-1,CDN
+http://comunidadiptv.org/online/estable/?sintonizador=CDN
+#EXTINF:-1,CDN Sports Max
+http://comunidadiptv.org/online/estable/?sintonizador=CDNSportsMax
+#EXTINF:-1,Telemadrid
+http://comunidadiptv.org/online/estable/?sintonizador=TeleMadrid
+#EXTINF:-1,LaOtra
+http://comunidadiptv.org/online/estable/?sintonizador=LaOtra
+#EXTINF:-1,STV Rioja
+http://comunidadiptv.org/online/estable/?sintonizador=STVRioja
+#EXTINF:-1,Canal 13 Nicaragua
+http://comunidadiptv.org/online/estable/?sintonizador=Canal13Nicaragua
+#EXTINF:-1,TV Ferrol
+http://comunidadiptv.org/online/estable/?sintonizador=TVF
+#EXTINF:-1,PTV Malaga
+http://comunidadiptv.org/online/estable/?sintonizador=PTVMalaga
+#EXTINF:-1,PTV Cordoba
+http://comunidadiptv.org/online/estable/?sintonizador=PTVCordoba
+#EXTINF:-1,QMusica TV
+http://comunidadiptv.org/online/estable/?sintonizador=QMusicaTV
+#EXTINF:-1,Teleantillas
+http://comunidadiptv.org/online/estable/?sintonizador=Teleantillas
+#EXTINF:-1,DWTV
+http://comunidadiptv.org/online/estable/canal/DW.m3u8
+#EXTINF:-1,Discovery Channel
+http://comunidadiptv.org/online/estable/?sintonizador=DiscoveryChannel
+#EXTINF:-1,TeleSistema 11
+http://comunidadiptv.org/online/estable/?sintonizador=Telesistema11
+#EXTINF:-1,Señal Colombia
+http://comunidadiptv.org/online/estable/?sintonizador=SColombia
+#EXTINF:-1,For Music TV
+http://comunidadiptv.org/online/estable/?sintonizador=FORMusicTV
+#EXTINF:-1,Enlace TV
+http://comunidadiptv.org/online/estable/?sintonizador=EnlaceTV
+#EXTINF:-1,Enlace Juvenil
+http://comunidadiptv.org/online/estable/?sintonizador=EnlaceJV
+#EXTINF:-1,Exa TV
+http://comunidadiptv.org/online/estable/?sintonizador=ExaTV
+#EXTINF:-1,Canal 13 Digital
+http://comunidadiptv.org/online/estable/?sintonizador=Canal13Digital
+#EXTINF:-1,Aliento Vision
+http://comunidadiptv.org/online/estable/?sintonizador=AlientoVision
+#EXTINF:-1,Canal 44
+http://comunidadiptv.org/online/estable/?sintonizador=Canal44
+#EXTINF:-1,El Pinguino
+http://comunidadiptv.org/online/estable/?sintonizador=ElPinguino
+#EXTINF:-1,Travel TV
+http://comunidadiptv.org/online/estable/?sintonizador=TravelTV
+#EXTINF:-1,Canal 45
+http://comunidadiptv.org/online/estable/?sintonizador=Canal45TV
+#EXTINF:-1,Noticias 16
+http://comunidadiptv.org/online/estable/?sintonizador=Noticias16
+#EXTINF:-1,Promar TV
+http://comunidadiptv.org/online/estable/?sintonizador=PromarTV
+#EXTINF:-1,Telearagua
+http://comunidadiptv.org/online/estable/?sintonizador=Telearagua
+#EXTINF:-1,Vale TV
+http://comunidadiptv.org/online/estable/?sintonizador=ValeTV
+#EXTINF:-1,Globovision
+http://comunidadiptv.org/online/estable/?sintonizador=Globovision
+#EXTINF:-1,Telecolor
+http://comunidadiptv.org/online/estable/?sintonizador=Telecolor
+#EXTINF:-1,TRT TV
+http://comunidadiptv.org/online/estable/?sintonizador=TRTTV
+#EXTINF:-1,Canal Once
+http://comunidadiptv.org/online/estable/?sintonizador=CanalOnce
+#EXTINF:-1,Agrotendencia
+http://comunidadiptv.org/online/estable/?sintonizador=Agrotendencia
+#EXTINF:-1,LifeDesignHD
+http://comunidadiptv.org/online/estable/?sintonizador=LifeDesignHD
+#EXTINF:-1,Euronews
+http://comunidadiptv.org/online/estable/?sintonizador=EuroNewsES
+#EXTINF:-1,TV3 Spain
+http://comunidadiptv.org/online/estable/?sintonizador=TV3
+#EXTINF:-1,324
+http://comunidadiptv.org/online/estable/?sintonizador=3-24
+#EXTINF:-1,Super3
+http://comunidadiptv.org/online/estable/?sintonizador=Super3-33
+#EXTINF:-1,Esport3
+http://comunidadiptv.org/online/estable/?sintonizador=Esport3
+#EXTINF:-1,DJing
+http://comunidadiptv.org/online/estable/?sintonizador=DJing
+#EXTINF:-1,DJing Animation
+http://comunidadiptv.org/online/estable/?sintonizador=DJingAnimation
+#EXTINF:-1,DJing Ibiza
+http://comunidadiptv.org/online/estable/?sintonizador=DJingIbiza
+#EXTINF:-1,DJing Classic
+http://comunidadiptv.org/online/estable/?sintonizador=DJingClassics
+#EXTINF:-1,DJing Underground
+http://comunidadiptv.org/online/estable/?sintonizador=DJingUnderground
+#EXTINF:-1,Milenio Televisión
+http://comunidadiptv.org/online/estable/?sintonizador=Milenio
+#EXTINF:-1,TeleRitmo
+http://comunidadiptv.org/online/estable/?sintonizador=TeleRitmo
+#EXTINF:-1,Encuentro
+http://comunidadiptv.org/online/estable/?sintonizador=EncuentroTV
+#EXTINF:-1,PakaPaka
+http://comunidadiptv.org/online/estable/?sintonizador=PakaPaka
+#EXTINF:-1,Digital Max 13
+http://comunidadiptv.org/online/estable/?sintonizador=MaxDigital13
+#EXTINF:-1,Misiones Cuatro
+http://comunidadiptv.org/online/estable/?sintonizador=MisionesCuatro
+#EXTINF:-1,Misiones Canal 2
+http://comunidadiptv.org/online/estable/?sintonizador=MisionesCanal2
+#EXTINF:-1,Teleantioquia
+http://comunidadiptv.org/online/estable/?sintonizador=Teleantioquia
+#EXTINF:-1,CanalCapital
+http://comunidadiptv.org/online/estable/?sintonizador=CanalCapital
+#EXTINF:-1,Canal Once
+http://comunidadiptv.org/online/estable/?sintonizador=CanalOnceMex
+#EXTINF:-1,TV Mediterraneo
+http://comunidadiptv.org/online/estable/?sintonizador=TVMediterraneo
+#EXTINF:-1,Peliculas en Español
+http://comunidadiptv.org/online/estable/?sintonizador=PeliculasSpanish
+#EXTINF:-1,TV8 Andalucia
+http://comunidadiptv.org/online/estable/?sintonizador=TV8Andalucia
+#EXTINF:-1,25 TV
+http://comunidadiptv.org/online/estable/?sintonizador=TV25
+#EXTINF:-1,Alcarria TV
+http://comunidadiptv.org/online/estable/?sintonizador=AlcarriaTV
+#EXTINF:-1,C7 Televalencia
+http://comunidadiptv.org/online/estable/?sintonizador=C7Televalencia
+#EXTINF:-1,C45 Andujar
+http://comunidadiptv.org/online/estable/?sintonizador=C45Andujar
+#EXTINF:-1,Canal Blau
+http://comunidadiptv.org/online/estable/?sintonizador=CanalBlau
+#EXTINF:-1,Cetelmon TV
+http://comunidadiptv.org/online/estable/?sintonizador=CetelmonTV
+#EXTINF:-1,Lucena TV
+http://comunidadiptv.org/online/estable/?sintonizador=LucenaTV
+#EXTINF:-1,Onda Algeciras TV
+http://comunidadiptv.org/online/estable/?sintonizador=OndaAlgecirasTV
+#EXTINF:-1,Onda Jerez
+http://comunidadiptv.org/online/estable/?sintonizador=OndaJerez
+#EXTINF:-1,Solidaria TV
+http://comunidadiptv.org/online/estable/?sintonizador=SolidariaTV
+#EXTINF:-1,Tindaya TV
+http://comunidadiptv.org/online/estable/?sintonizador=TindayaTV
+#EXTINF:-1,Mexico Travel
+http://comunidadiptv.org/online/estable/?sintonizador=MexicoTravel
+#EXTINF:-1,Landscape HD
+http://comunidadiptv.org/online/estable/?sintonizador=LandscapeHD
+#EXTINF:-1,Telemundo
+http://comunidadiptv.org/online/estable/?sintonizador=TeleMundo
+#EXTINF:-1,Canal Antiestrés
+http://comunidadiptv.org/online/estable/?sintonizador=Antiestres
+#EXTINF:-1,TeleMax
+http://comunidadiptv.org/online/estable/?sintonizador=TeleMax
+#EXTINF:-1,Cantinazo
+http://comunidadiptv.org/online/estable/?sintonizador=Cantinazo
+#EXTINF:-1,Mi Musica HD
+http://comunidadiptv.org/online/estable/?sintonizador=MiMusicaHD
+#EXTINF:-1,TeleAmiga
+http://comunidadiptv.org/online/estable/?sintonizador=TeleAmiga
+#EXTINF:-1,Tigo Music HD
+http://comunidadiptv.org/online/estable/?sintonizador=TigoMusicHD
+#EXTINF:-1,CanalU
+http://comunidadiptv.org/online/estable/?sintonizador=CanalU
+#EXTINF:-1,TV Agro
+http://comunidadiptv.org/online/estable/?sintonizador=TVAgro
+#EXTINF:-1,CableNoticias
+http://comunidadiptv.org/online/estable/?sintonizador=CableNoticias
+#EXTINF:-1,ElTiempoTV
+http://comunidadiptv.org/online/estable/?sintonizador=ElTiempoTV
+#EXTINF:-1,Une TV Manizales
+http://comunidadiptv.org/online/estable/?sintonizador=UneTVManizales
+#EXTINF:-1,Une TV Caribe
+http://comunidadiptv.org/online/estable/?sintonizador=UneTVCaribe
+#EXTINF:-1,Une TV Armenia
+http://comunidadiptv.org/online/estable/?sintonizador=UneTVArmenia
+#EXTINF:-1,TeleVida
+http://comunidadiptv.org/online/estable/?sintonizador=TeleVida
+#EXTINF:-1,TrendyMusica
+http://comunidadiptv.org/online/estable/?sintonizador=TrendyMusica
+#EXTINF:-1,Canal 9 Chile
+http://comunidadiptv.org/online/estable/?sintonizador=Canal9Chile
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red][B]""[COLOR red][B]-------SELECCION CANALES INFANTILES PREMIUM -------[/B][/COLOR]
+http://?
+#EXTINF:-1,CARTOON NETWORK HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,CBEBBE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,NICK JR HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,NICK
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,NICKELODEON HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DISNEY JR HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DISNEY XD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DISNEY CHANNEL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,BOOMERANG HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,TOONCAST HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
+#EXTINF:-1,DISCOVERY KIDS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8?-EXPIRACION-PROGR-X-EDUARDOCISNEROS-PUERT-.134/95*56-61-24
