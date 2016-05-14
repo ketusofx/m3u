@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://patfish.files.wordpress.com/2016/03/zootopia3-29-16zootopiakaitlyn1pf.jpg?w=706&h=530",zootopia
 https://1fgm905.oloadcdn.net/dl/l/kFbwSbOQil4/hLvHY1emsrE/Zootopia-HD720P-LATINO.MP4.mp4.mp4?mime=true
-#EXTINF:-1,palmeras en la nieve
+#EXTINF:-1  tvg-logo="http://npeliculas.com/wp-content/uploads/2015/02/palmeras-en-la-nieve.jpg",palmeras en la nieve
 https://video.googleusercontent.com/T_cDMoguFAIBKvP870jAfeo4yvB2Jt3cZKWc5_RadlLJ9AcqBoklF7BK7wDKE9UPUnZ0BpGSmctjft3s5HNWryE0pqaqk3_htTIy70lbkip-gVF6mZpsnm1_Q7kMp6T15aFWZl2yyw
 
 #EXTINF:-1,Harry Potter y la piedra filosofal (2001) HD 1080P Latino
